@@ -1,6 +1,6 @@
 Hi, I’m @Stefan-Carton also known as Stefan Carton.
 
-I’m a Senior Business Analyst, who knows juuuust enough code to solve the occasional problem and tends to write 300 lines of comments for 15 lines of actually executiable code. 
+I’m a Principal Business Analyst, who knows juuuust enough code to solve the occasional problem and tends to write 300 lines of comments for 15 lines of actually executiable code. 
 I'll probably use this if I have something professional to show off, but at the moment, not so much.
 
 
